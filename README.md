@@ -11,10 +11,6 @@ Given the N and M and the network of roads of unit length (all available A [i,j]
 
 **Language**: Delphi
 
-**Algorithm scheme**: 
-
-In progress
-
 **Code:**
 ``` pascal
 program lab6;
